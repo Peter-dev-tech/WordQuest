@@ -1,0 +1,8 @@
+# Herramientas de desarrollo, no parte del proyecto
+noVNC/
+
+# Archivos compilados por Maven
+WordQuest/target/
+
+# Logs de depuración
+WordQuest/salida.log
